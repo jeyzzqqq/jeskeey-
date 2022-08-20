@@ -64,6 +64,11 @@ body {
   width: 400px;
 }
 
+.hero .left img {
+  box-shadow: 5px 10px #7B7474;
+  border-radius: 20px;
+}
+
 .hero .right {
   color: var(--black);
   margin-top: -7rem;
